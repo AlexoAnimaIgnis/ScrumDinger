@@ -1,2 +1,2 @@
-# ScrumDinger
+# Scrumdringer
 SwiftUI Tutorial
